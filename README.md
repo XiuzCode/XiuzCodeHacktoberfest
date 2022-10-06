@@ -8,6 +8,8 @@ HACKTOBERFEST IS DIGITALOCEAN’S ANNUAL EVENT THAT ENCOURAGES PEOPLE TO CONTRIB
 
 - [Anonk](https://github.com/anonkyuhuu/)
 - [Nanta](https://github.com/erlxxx/)
+- [George](https://github.com/GeorgeET15/)
+
 
 ## How to contribute
 
